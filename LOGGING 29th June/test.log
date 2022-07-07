@@ -1,0 +1,38 @@
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:this is my first logging
+INFO:root:2
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+INFO:root:2
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+INFO:root:2
+WARNING:root:warming to finf 2 in list
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+ERROR:root:this is a error message
+INFO:root:2
+WARNING:root:warming to find 2 in list
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+ERROR:root:this is a error message
+INFO:root:2
+WARNING:root:warming to find 2 in list
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+ERROR:root:this is a error message
+INFO:root:2
+WARNING:root:warming to find 2 in list
+INFO:root:this is my first logging
+WARNING:root:this will load warning msg
+ERROR:root:this is a error message
+INFO:root:2
+WARNING:root:warming to find 2 in list

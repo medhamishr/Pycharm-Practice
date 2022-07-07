@@ -1,0 +1,29 @@
+2022-06-29 17:30:29,154 root INFO the number entered by user is 3 and 4
+2022-06-29 17:30:29,154 root INFO the number entered by user is 3 and 0
+2022-06-29 17:30:39,038 root INFO the number entered by user is 3 and 4
+2022-06-29 17:30:39,038 root INFO the number entered by user is 3 and 0
+2022-06-29 17:34:31,482 root INFO the number entered by user is 3 and 4
+2022-06-29 17:34:31,482 root INFO we are into function
+2022-06-29 17:34:31,482 root INFO we ahve complted a division operation
+2022-06-29 17:34:31,482 root INFO the number entered by user is 3 and 0
+2022-06-29 17:34:31,482 root INFO we are into function
+2022-06-29 17:34:31,482 root ERROR division by zero
+Traceback (most recent call last):
+  File "/Users/medhu/Desktop/Study/PYCHARM NOTES/class29thjune/test3.py", line 7, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-29 17:40:13,256 root INFO the number entered by user is 3 and 0
+2022-06-29 17:40:13,256 root INFO we are into function
+2022-06-29 17:40:13,256 root ERROR division by zero
+Traceback (most recent call last):
+  File "/Users/medhu/Desktop/Study/PYCHARM NOTES/class29thjune/test3.py", line 7, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-06-29 17:40:25,409 root INFO the number entered by user is 3 and 5
+2022-06-29 17:40:25,409 root INFO we are into function
+2022-06-29 17:40:25,409 root INFO we ahve complted a division operation
+2022-06-29 17:40:25,409 root INFO result of div is 0.6
+2022-06-29 17:41:51,852 root INFO the number entered by user is 3 and 5
+2022-06-29 17:41:51,852 root INFO we are into function
+2022-06-29 17:41:51,852 root INFO we ahve complted a division operation
+2022-06-29 17:41:51,852 root INFO result of div is 0.6
